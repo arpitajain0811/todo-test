@@ -1,0 +1,17 @@
+.todo {
+    align-items: center;
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    display: flex;
+    font-size: 12px;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    padding: 5px 10px;
+}
+
+.form-button {
+    padding: 0.125rem 0.25rem;
+    margin: 0 0.125rem;
+    border: 1px solid gray;
+}
